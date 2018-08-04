@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(41, 41, 41)
+}
+
+.img-container {
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px;
+}
